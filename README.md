@@ -19,36 +19,31 @@ It is necessary to install with the above commands.
 Application home screen:
 ![genel_ekran](https://i.hizliresim.com/t5b6sge.png)</br>
 
-**Makine Donanım Adı** 
+**Makine Donanım Adı** </br>
 Progress bar:</br>
 ![pMakineDonanımAdı](https://i.hizliresim.com/mmr63yj.png)</br>
 ![MakineDonanımAdı](https://i.hizliresim.com/9udn8lt.png)</br>
 
-**Makine Mimarisi**
+**Makine Mimarisi**</br>
 Progress bar:</br>
 ![pMakineMimarisi](https://i.hizliresim.com/p6cctsn.png)</br>
 ![MakineMimarisi](https://i.hizliresim.com/blmarzx.png)</br>
 
-**İşlemci Özellikleri**
+**İşlemci Özellikleri**</br>
 Progress bar:</br>
 ![pİşlemci](https://i.hizliresim.com/88zckjv.png)</br>
 ![İşlemci](https://i.hizliresim.com/lucpof9.png)</br>
 
-**Donanım Bilgisi**
+**Donanım Bilgisi**</br>
 Progress bar:</br>
 ![pDonanım](https://i.hizliresim.com/ofm1rdl.png)</br>
 ![Donanım](https://i.hizliresim.com/6ukpnso.png)</br>
 
-**Blok Cihazları**
+**Blok Cihazları**</br>
 Progress bar:</br>
 ![pBlok](https://i.hizliresim.com/q3ro9rh.png)</br>
 ![Blok](https://i.hizliresim.com/6q50ke0.png)</br>
 
 
-## **Screenshot**
-
-
-##
-
-#### **Game Design and Programming**</br>
+#### **Programming**</br>
       Nurcan Şensoy
