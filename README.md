@@ -6,7 +6,7 @@ This application serves to display system and hardware information of a Linux ma
 </br>
 
 ## **Built With**</br>
-**Shell language and Zenity Library** 
+**Shell language and Zenity** 
 
 ## **Running**</br>
 It runs on the Linux operating system.</br>
