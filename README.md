@@ -19,7 +19,7 @@ It is necessary to install with the above commands.
 Application home screen:
 
 ## **Screenshot**
-![Mavi Bulut](https://drive.google.com/file/d/1Ig9-GHL1BnGo_zwQIR27cuYgpL0g3ZxQ/view?usp=sharing)</br>
+![Mavi Bulut](https://i.hizliresim.com/pw527bk.png)</br>
 
 ##
 
