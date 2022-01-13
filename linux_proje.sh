@@ -5,7 +5,7 @@
 rc=1
 while [ $rc -eq 1 ]; do
   ans=$(zenity --info --title 'Linux Bilgilendirme Ekranı' \
-      --text "Hangi bilgiyi görmek istersiniz?" --no-wrap \
+      --text "Öğrenmek istediğiniz bilgiyi seçin." --no-wrap \
       --extra-button "Makine Donanım Adı" \
       --extra-button "Makine Mimarisi" \
       --extra-button "İşlemci Özellikleri" \
