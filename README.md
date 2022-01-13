@@ -1,4 +1,4 @@
-# Zenity-Uygulamasi
+# Zenity Application
 Sistem ve Donanım Bilgilerini Gösteren Uygulama </br>
 
 ## **Description**</br>
