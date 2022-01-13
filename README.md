@@ -41,8 +41,8 @@ Progress bar:
 
 **Blok Cihazları**
 Progress bar:
-![pBlok](https://www.hizliresim.com/q3ro9rh)
-![Blok](https://www.hizliresim.com/6q50ke0)
+![pBlok](https://www.hizliresim.com/q3ro9rh.png)
+![Blok](https://i.hizliresim.com/6q50ke0.png)
 
 
 ## **Screenshot**
