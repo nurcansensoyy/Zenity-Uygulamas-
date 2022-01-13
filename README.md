@@ -1,5 +1,5 @@
 # Zenity Application
-Sistem ve Donanım Bilgilerini Gösteren Uygulama </br>
+Application Showing System and Hardware Information </br>
 
 ## **Description**</br>
 This application serves to display system and hardware information of a Linux machine. It was created using the Shell language and the Zenity library.
