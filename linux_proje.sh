@@ -2,8 +2,8 @@
 #
 
 
-rc=1
-while [ $rc -eq 1 ]; do
+bt=1
+while [ $bt -eq 1 ]; do
   ans=$(zenity --info --title 'Linux Bilgilendirme Ekranı' \
       --text "Öğrenmek istediğiniz bilgiyi seçin." --no-wrap \
       --extra-button "Makine Donanım Adı" \
@@ -13,8 +13,8 @@ while [ $rc -eq 1 ]; do
       --extra-button "Blok Cihazları" \
       --ok-label "Çıkış Yap"
        )
-  rc=$?
-  echo "${rc}-${ans}"
+  bt=$?
+  echo "${bt}-${ans}"
   echo $ans
   if [[ $ans = "Makine Donanım Adı" ]]
   then
