@@ -21,32 +21,32 @@ Application home screen:
 
 **Makine Donanım Adı** 
 Progress bar:
-![pMakineDonanımAdı](https://www.hizliresim.com/mmr63yj)
-![MakineDonanımAdı](https://www.hizliresim.com/9udn8lt)
+![pMakineDonanımAdı](https://i.hizliresim.com/mmr63yj.png)
+![MakineDonanımAdı](https://i.hizliresim.com/9udn8lt.png)
 
 **Makine Mimarisi**
 Progress bar:
-![pMakineMimarisi](https://www.hizliresim.com/p6cctsn)
-![MakineMimarisi](https://www.hizliresim.com/blmarzx)
+![pMakineMimarisi](https://i.hizliresim.com/p6cctsn.png)
+![MakineMimarisi](https://i.hizliresim.com/blmarzx.png)
 
 **İşlemci Özellikleri**
 Progress bar:
-![pİşlemci](https://www.hizliresim.com/88zckjv)
-![İşlemci](https://www.hizliresim.com/lucpof9)
+![pİşlemci](https://i.hizliresim.com/88zckjv.png)
+![İşlemci](https://i.hizliresim.com/lucpof9.png)
 
 **Donanım Bilgisi**
 Progress bar:
-![pDonanım](https://www.hizliresim.com/ofm1rdl)
-![Donanım](https://www.hizliresim.com/6ukpnso)
+![pDonanım](https://i.hizliresim.com/ofm1rdl.png)
+![Donanım](https://i.hizliresim.com/6ukpnso.png)
 
 **Blok Cihazları**
 Progress bar:
-![pBlok](https://www.hizliresim.com/q3ro9rh.png)
+![pBlok](https://i.hizliresim.com/q3ro9rh.png)
 ![Blok](https://i.hizliresim.com/6q50ke0.png)
 
 
 ## **Screenshot**
-![Mavi Bulut](https://i.hizliresim.com/pw527bk.png)</br>
+
 
 ##
 
