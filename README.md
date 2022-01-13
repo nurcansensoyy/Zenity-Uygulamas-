@@ -9,10 +9,10 @@ This application serves to display system and hardware information of a Linux ma
 **Shell language and Zenity Library** 
 
 ## **Running**</br>
-It runs on the Linux operating system.
--sudo apt-get install zenity
--sudo apt-get update
--sudo apt-get install hwinfo
+It runs on the Linux operating system.</br>
+-sudo apt-get install zenity</br>
+-sudo apt-get update</br>
+-sudo apt-get install hwinfo</br>
 It is necessary to install with the above commands.
 
 ## **How To Use?**</br>
