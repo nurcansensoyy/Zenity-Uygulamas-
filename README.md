@@ -19,7 +19,7 @@ It is necessary to install with the above commands.
 Application home screen:
 
 ## **Screenshot**
-![Mavi Bulut](https://github.com/nurcansensoyy/nurcansensoyy.github.io/blob/main/images/screenshot.png)</br>
+![Mavi Bulut](https://drive.google.com/drive/u/0/folders/1uu0lsMaWB3FpobslKIwINwM0XVbdAZ_g)</br>
 
 ##
 
