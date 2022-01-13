@@ -46,6 +46,6 @@ Progress bar:</br>
 
 
 #### **Programming**</br>
-      Nurcan Şensoy </br>
+      Nurcan Şensoy
 #### **Youtube Link**</br>
 https://youtu.be/i8uykzdJlPQ
